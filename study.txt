@@ -1,0 +1,11 @@
+h1 dio git h1
+
+cd xxx = go to xxx
+cd .. = go back
+dir = the terminal will list what's inside
+cls = clean screen
+mkdir = make directory
+del xxx = delete repository
+rmdir xxx = delete the file itself
+echo yyy  xxx.zz = create a zz file named xxx and writes yyy inside
+echo yyy = the prompt terminal will return you yyy
